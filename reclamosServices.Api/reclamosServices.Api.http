@@ -1,0 +1,6 @@
+@reclamosServices.Api_HostAddress = http://localhost:5201
+
+GET {{reclamosServices.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,264 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "reclamosServices.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/reclamos": {
+      "post": {
+        "tags": [
+          "Reclamo"
+        ],
+        "summary": "Crea un nuevo reclamo enviado por un usuario.",
+        "description": "Este endpoint permite registrar un reclamo indicando el motivo, la subasta y una descripción.",
+        "requestBody": {
+          "description": "Objeto con los datos del reclamo (usuario, subasta, motivo y descripción).",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/createReclamoCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/createReclamoCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/createReclamoCommand"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Reclamo creado exitosamente.",
+            "content": {
+              "text/plain": {
+                "schema": { }
+              },
+              "application/json": {
+                "schema": { }
+              },
+              "text/json": {
+                "schema": { }
+              }
+            }
+          },
+          "400": {
+            "description": "Datos inválidos o incompletos.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Reclamo"
+        ],
+        "summary": "Obtiene todos los reclamos registrados en el sistema.",
+        "description": "Este endpoint devuelve una lista de reclamos almacenados en MongoDB, incluyendo información del usuario, subasta, motivo, descripción, fecha de creación y estado.",
+        "responses": {
+          "200": {
+            "description": "Lista de reclamos obtenida correctamente.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReclamoDto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReclamoDto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReclamoDto"
+                  }
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Error interno del servidor."
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ProblemDetails": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "detail": {
+            "type": "string",
+            "nullable": true
+          },
+          "instance": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": { }
+      },
+      "ReclamoDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "usuarioId": {
+            "type": "string",
+            "nullable": true
+          },
+          "subastaId": {
+            "type": "string",
+            "nullable": true
+          },
+          "motivo": {
+            "type": "string",
+            "nullable": true
+          },
+          "descripcion": {
+            "type": "string",
+            "nullable": true
+          },
+          "fechaCreacion": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "estado": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "createReclamoCommand": {
+        "type": "object",
+        "properties": {
+          "usuarioId": {
+            "type": "string",
+            "nullable": true
+          },
+          "subastaId": {
+            "type": "string",
+            "nullable": true
+          },
+          "motivo": {
+            "type": "string",
+            "nullable": true
+          },
+          "descripcion": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

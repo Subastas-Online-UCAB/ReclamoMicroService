@@ -1,0 +1,11 @@
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\bin\Debug\net8.0\reclamoService.Dominio.deps.json
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\bin\Debug\net8.0\reclamoService.Dominio.dll
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\bin\Debug\net8.0\reclamoService.Dominio.pdb
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\obj\Debug\net8.0\reclamoService.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\obj\Debug\net8.0\reclamoService.Dominio.AssemblyInfoInputs.cache
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\obj\Debug\net8.0\reclamoService.Dominio.AssemblyInfo.cs
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\obj\Debug\net8.0\reclamoService.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\obj\Debug\net8.0\reclamoService.Dominio.dll
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\obj\Debug\net8.0\refint\reclamoService.Dominio.dll
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\obj\Debug\net8.0\reclamoService.Dominio.pdb
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\obj\Debug\net8.0\ref\reclamoService.Dominio.dll

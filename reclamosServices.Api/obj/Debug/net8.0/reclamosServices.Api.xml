@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>reclamosServices.Api</name>
+    </assembly>
+    <members>
+        <member name="T:reclamosServices.Api.Controllers.ReclamoController">
+            <summary>
+            Permite a los usuarios enviar reclamos relacionados con subastas.
+            </summary>
+        </member>
+        <member name="M:reclamosServices.Api.Controllers.ReclamoController.Crear(reclamoService.Aplicacion.Commands.createReclamoCommand)">
+            <summary>
+            Crea un nuevo reclamo enviado por un usuario.
+            </summary>
+            <remarks>
+            Este endpoint permite registrar un reclamo indicando el motivo, la subasta y una descripción.
+            </remarks>
+            <param name="cmd">Objeto con los datos del reclamo (usuario, subasta, motivo y descripción).</param>
+            <returns>Devuelve un código 201 con el ID del reclamo creado.</returns>
+            <response code="201">Reclamo creado exitosamente.</response>
+            <response code="400">Datos inválidos o incompletos.</response>
+        </member>
+        <member name="M:reclamosServices.Api.Controllers.ReclamoController.Get">
+            <summary>
+            Obtiene todos los reclamos registrados en el sistema.
+            </summary>
+            <remarks>
+            Este endpoint devuelve una lista de reclamos almacenados en MongoDB, incluyendo información del usuario, subasta, motivo, descripción, fecha de creación y estado.
+            </remarks>
+            <returns>Lista de objetos <see cref="T:reclamoService.Aplicacion.DTOs.ReclamoDto"/>.</returns>
+            <response code="200">Lista de reclamos obtenida correctamente.</response>
+            <response code="500">Error interno del servidor.</response>
+        </member>
+    </members>
+</doc>
