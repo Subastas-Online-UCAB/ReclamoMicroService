@@ -33,6 +33,17 @@ namespace reclamoService.Infraestructura.EventPublisher
 
             await _publishEndpoint.Publish(evento);
         }
+
+        public async Task PublicarReclamoResueltoAsync(Guid reclamoId)
+        {
+            var evento = new ReclamoResueltoEvent
+            {
+                ReclamoId = reclamoId,
+                NuevoEstado = "Resuelto"
+            };
+
+            await _publishEndpoint.Publish(evento);
+        }
     }
 
 }

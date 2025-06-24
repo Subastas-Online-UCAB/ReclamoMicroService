@@ -9,3 +9,4 @@ C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.D
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\obj\Debug\net8.0\refint\reclamoService.Dominio.dll
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\obj\Debug\net8.0\reclamoService.Dominio.pdb
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\obj\Debug\net8.0\ref\reclamoService.Dominio.dll
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosService.Dominio\obj\Debug\net8.0\reclamoService.Dominio.csproj.AssemblyReference.cache

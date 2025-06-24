@@ -60,6 +60,37 @@
     ]
   },
   {
+    "ContainingType": "reclamosServices.Api.Controllers.ReclamoController",
+    "Method": "ResolverReclamo",
+    "RelativePath": "api/reclamos/resolver/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
     "ContainingType": "reclamosServices.Api.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

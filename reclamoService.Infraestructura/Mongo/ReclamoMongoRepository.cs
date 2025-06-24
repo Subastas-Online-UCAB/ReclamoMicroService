@@ -28,6 +28,14 @@ namespace reclamoService.Infraestructura.Mongo
             return await _reclamos.Find(_ => true).ToListAsync();
         }
 
+        public async Task ActualizarEstadoAsync(Guid reclamoId, string nuevoEstado)
+        {
+            var filter = Builders<reclamo>.Filter.Eq(x => x.Id, reclamoId);
+            var update = Builders<reclamo>.Update.Set(x => x.Estado, nuevoEstado);
+
+            await _reclamos.UpdateOneAsync(filter, update);
+        }
+
     }
 
 }

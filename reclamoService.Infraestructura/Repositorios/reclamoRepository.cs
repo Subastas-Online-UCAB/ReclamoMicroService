@@ -44,14 +44,14 @@ namespace reclamoService.Infraestructura.Repositorios
             return await _context.Reclamos.ToListAsync();
         }
 
-        public async Task ActualizarEstadoAsync(Guid id, string nuevoEstado)
+        public async Task<bool> ActualizarEstadoAsync(Guid id, string estado)
         {
             var reclamo = await _context.Reclamos.FindAsync(id);
-            if (reclamo is null)
-                throw new OperacionInvalidaException("Reclamo  " + id);
+            if (reclamo == null) return false;
 
-            reclamo.Estado = nuevoEstado;
+            reclamo.Estado = estado;
             await _context.SaveChangesAsync();
+            return true;
         }
     }
 

@@ -11,5 +11,6 @@ namespace reclamoService.Dominio.Interfaces
     {
         Task<List<reclamo>> ObtenerTodosAsync();
         Task GuardarAsync(reclamo reclamo);
+        Task ActualizarEstadoAsync(Guid reclamoId, string nuevoEstado);
     }
 }

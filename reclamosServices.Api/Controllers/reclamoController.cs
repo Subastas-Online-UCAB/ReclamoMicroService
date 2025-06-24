@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using reclamoService.Aplicacion.Commands;
 using reclamoService.Aplicacion.DTOs;
 using reclamoService.Aplicacion.Queries;
+using reclamoService.Dominio.Excepciones;
 
 namespace reclamosServices.Api.Controllers
 {
@@ -58,5 +59,25 @@ namespace reclamosServices.Api.Controllers
             return Ok(result);
         }
 
+
+        /// <summary>
+        /// Marca un reclamo como resuelto.
+        /// </summary>
+        /// <param name="id">ID del reclamo a resolver.</param>
+        /// <returns>Devuelve 200 si fue exitoso, 404 si no se encontró el reclamo.</returns>
+        /// <response code="200">Reclamo resuelto correctamente.</response>
+        /// <response code="404">No se encontró el reclamo con el ID proporcionado.</response>
+        [HttpPut("resolver/{id}")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        public async Task<IActionResult> ResolverReclamo(Guid id)
+        {
+            var resultado = await _mediator.Send(new resolverReclamoCommand(id));
+
+            if (!resultado)
+                throw new reclamoNoEncontradoException(id); // Excepción personalizada
+
+            return Ok(new { mensaje = "Reclamo resuelto correctamente." });
+        }
     }
 }

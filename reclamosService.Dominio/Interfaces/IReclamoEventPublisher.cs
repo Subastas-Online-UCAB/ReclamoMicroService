@@ -10,5 +10,6 @@ namespace reclamoService.Dominio.Interfaces
     public interface IReclamoEventPublisher
     {
         Task PublicarReclamoCreadoAsync(reclamo nuevoReclamo);
+        Task PublicarReclamoResueltoAsync(Guid reclamoId);
     }
 }
