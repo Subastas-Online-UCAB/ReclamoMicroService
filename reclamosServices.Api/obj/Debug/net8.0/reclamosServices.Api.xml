@@ -32,5 +32,14 @@
             <response code="200">Lista de reclamos obtenida correctamente.</response>
             <response code="500">Error interno del servidor.</response>
         </member>
+        <member name="M:reclamosServices.Api.Controllers.ReclamoController.ResolverReclamo(System.Guid)">
+            <summary>
+            Marca un reclamo como resuelto.
+            </summary>
+            <param name="id">ID del reclamo a resolver.</param>
+            <returns>Devuelve 200 si fue exitoso, 404 si no se encontró el reclamo.</returns>
+            <response code="200">Reclamo resuelto correctamente.</response>
+            <response code="404">No se encontró el reclamo con el ID proporcionado.</response>
+        </member>
     </members>
 </doc>

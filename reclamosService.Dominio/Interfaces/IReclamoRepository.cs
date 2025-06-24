@@ -13,6 +13,7 @@ namespace reclamoService.Dominio.Interfaces
         Task<reclamo?> ObtenerPorIdAsync(Guid id);
         Task<IEnumerable<reclamo>> ObtenerPorUsuarioAsync(string usuarioId);
         Task<IEnumerable<reclamo>> ObtenerTodosAsync();
-        Task ActualizarEstadoAsync(Guid id, string nuevoEstado);
+        Task<bool> ActualizarEstadoAsync(Guid id, string nuevoEstado);
+
     }
 }
