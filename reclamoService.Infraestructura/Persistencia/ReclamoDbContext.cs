@@ -23,6 +23,9 @@ namespace reclamoService.Infraestructura.Persistencia
                 entity.HasKey(r => r.Id);
                 entity.Property(r => r.Motivo).IsRequired();
                 entity.Property(r => r.Estado).HasDefaultValue("Pendiente");
+                entity.Property(r => r.Solucion)
+                    .HasColumnType("text") // o "varchar(500)" si quieres limitar
+                    .IsRequired(false);    // explícitamente opcional
             });
         }
     }

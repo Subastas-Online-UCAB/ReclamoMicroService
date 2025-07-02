@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using reclamoService.Aplicacion.Commands;
 using reclamoService.Aplicacion.DTOs;
@@ -79,5 +80,29 @@ namespace reclamosServices.Api.Controllers
 
             return Ok(new { mensaje = "Reclamo resuelto correctamente." });
         }
+
+
+        /// <summary>
+        /// Agrega una solución a un reclamo existente.
+        /// </summary>
+        /// <param name="dto">Objeto que contiene el ID del reclamo y la solución escrita por el administrador.</param>
+        /// <returns>Mensaje de éxito si el reclamo fue resuelto correctamente.</returns>
+        /// <response code="200">Solución agregada correctamente.</response>
+        /// <response code="404">El reclamo no fue encontrado.</response>
+        [HttpPut("resolver")]
+        [ProducesResponseType(typeof(object), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
+        public async Task<IActionResult> AgregarSolucion([FromBody] AgregarSolucionReclamoDto dto)
+        {
+            var comando = new AgregarSolucionReclamoCommand(dto.ReclamoId, dto.Solucion);
+            await _mediator.Send(comando);
+
+            return Ok(new
+            {
+                mensaje = "Solución agregada correctamente al reclamo.",
+                reclamoId = dto.ReclamoId
+            });
+        }
+
     }
 }

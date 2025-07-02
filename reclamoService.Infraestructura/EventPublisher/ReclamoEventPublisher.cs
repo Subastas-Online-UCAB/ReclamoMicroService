@@ -44,6 +44,18 @@ namespace reclamoService.Infraestructura.EventPublisher
 
             await _publishEndpoint.Publish(evento);
         }
+
+
+        public async Task PublicarSolucionAgregadaAsync(Guid reclamoId, string solucion, DateTime fecha)
+        {
+            var evento = new SolucionReclamoAgregadaEvent
+            {
+                ReclamoId = reclamoId,
+                Solucion = solucion,
+            };
+
+            await _publishEndpoint.Publish(evento);
+        }
     }
 
 }

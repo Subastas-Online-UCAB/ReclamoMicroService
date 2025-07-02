@@ -61,6 +61,41 @@
   },
   {
     "ContainingType": "reclamosServices.Api.Controllers.ReclamoController",
+    "Method": "AgregarSolucion",
+    "RelativePath": "api/reclamos/resolver",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "reclamoService.Aplicacion.DTOs.AgregarSolucionReclamoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Object",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Object",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "reclamosServices.Api.Controllers.ReclamoController",
     "Method": "ResolverReclamo",
     "RelativePath": "api/reclamos/resolver/{id}",
     "HttpMethod": "PUT",

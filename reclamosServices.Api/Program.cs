@@ -79,6 +79,8 @@ builder.Services.AddMassTransit(x =>
 {
     x.AddConsumer<ReclamoCreadoConsumer>();
     x.AddConsumer<ReclamoResueltoConsumer>();
+    x.AddConsumer<SolucionReclamoAgregadaConsumer>();
+
 
     x.UsingRabbitMq((context, cfg) =>
     {
@@ -96,6 +98,11 @@ builder.Services.AddMassTransit(x =>
         cfg.ReceiveEndpoint("cola-reclamos-resueltos", e =>
         {
             e.ConfigureConsumer<ReclamoResueltoConsumer>(context);
+        });
+
+        cfg.ReceiveEndpoint("reclamo-solucionado-event", e =>
+        {
+            e.ConfigureConsumer<SolucionReclamoAgregadaConsumer>(context);
         });
     });
 });

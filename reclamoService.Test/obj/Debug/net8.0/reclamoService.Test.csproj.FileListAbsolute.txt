@@ -166,3 +166,4 @@ C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Te
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Test\obj\Debug\net8.0\ref\reclamoService.Test.dll
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Test\bin\Debug\net8.0\Mongo2Go.dll
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Test\obj\Debug\net8.0\reclamoService.Test.sourcelink.json

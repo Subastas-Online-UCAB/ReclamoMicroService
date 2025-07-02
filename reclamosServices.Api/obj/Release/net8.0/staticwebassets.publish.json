@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AEGMwTl2kjR/SMeswktEmd82ZVcxKWI2hcSy++N5Ftk=",
+  "Source": "reclamosServices.Api",
+  "BasePath": "_content/reclamosServices.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

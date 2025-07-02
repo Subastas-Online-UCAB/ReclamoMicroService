@@ -156,6 +156,64 @@
         }
       }
     },
+    "/api/reclamos/resolver": {
+      "put": {
+        "tags": [
+          "Reclamo"
+        ],
+        "summary": "Agrega una solución a un reclamo existente.",
+        "requestBody": {
+          "description": "Objeto que contiene el ID del reclamo y la solución escrita por el administrador.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AgregarSolucionReclamoDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AgregarSolucionReclamoDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AgregarSolucionReclamoDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Solución agregada correctamente.",
+            "content": {
+              "text/plain": {
+                "schema": { }
+              },
+              "application/json": {
+                "schema": { }
+              },
+              "text/json": {
+                "schema": { }
+              }
+            }
+          },
+          "404": {
+            "description": "El reclamo no fue encontrado.",
+            "content": {
+              "text/plain": {
+                "schema": { }
+              },
+              "application/json": {
+                "schema": { }
+              },
+              "text/json": {
+                "schema": { }
+              }
+            }
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -198,6 +256,20 @@
   },
   "components": {
     "schemas": {
+      "AgregarSolucionReclamoDto": {
+        "type": "object",
+        "properties": {
+          "reclamoId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "solucion": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "ProblemDetails": {
         "type": "object",
         "properties": {
@@ -253,6 +325,10 @@
             "format": "date-time"
           },
           "estado": {
+            "type": "string",
+            "nullable": true
+          },
+          "solucion": {
             "type": "string",
             "nullable": true
           }

@@ -41,5 +41,14 @@
             <response code="200">Reclamo resuelto correctamente.</response>
             <response code="404">No se encontró el reclamo con el ID proporcionado.</response>
         </member>
+        <member name="M:reclamosServices.Api.Controllers.ReclamoController.AgregarSolucion(reclamoService.Aplicacion.DTOs.AgregarSolucionReclamoDto)">
+            <summary>
+            Agrega una solución a un reclamo existente.
+            </summary>
+            <param name="dto">Objeto que contiene el ID del reclamo y la solución escrita por el administrador.</param>
+            <returns>Mensaje de éxito si el reclamo fue resuelto correctamente.</returns>
+            <response code="200">Solución agregada correctamente.</response>
+            <response code="404">El reclamo no fue encontrado.</response>
+        </member>
     </members>
 </doc>

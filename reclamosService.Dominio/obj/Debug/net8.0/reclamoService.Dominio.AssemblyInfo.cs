@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("reclamoService.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8e583f846f1fc69b3c6cf60102cba2c91a5881d")]
 [assembly: System.Reflection.AssemblyProductAttribute("reclamoService.Dominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("reclamoService.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
