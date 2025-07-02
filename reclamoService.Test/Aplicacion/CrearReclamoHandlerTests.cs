@@ -2,49 +2,47 @@
 using System.Threading;
 using System.Threading.Tasks;
 using Moq;
+using Xunit;
 using reclamoService.Aplicacion.Commands;
 using reclamoService.Aplicacion.Handlers;
-using reclamoService.Dominio.Entidades;
 using reclamoService.Dominio.Interfaces;
-using Xunit;
+using reclamoService.Dominio.Entidades;
 
-namespace ReclamoService.Tests.Handlers
+namespace reclamoService.Tests.Aplicacion.Handlers
 {
-   /* public class CrearReclamoHandlerTests
+    public class CrearReclamoHandlerTests
     {
         [Fact]
-        public async Task Handle_ValidCommand_ReturnsReclamoIdAndPublishesEvent()
+        public async Task Handle_DeberiaCrearReclamoYPublicarEvento()
         {
             // Arrange
-            var repoMock = new Mock<IReclamoRepository>();
-            var publisherMock = new Mock<IReclamoEventPublisher>();
+            var mockRepo = new Mock<IReclamoRepository>();
+            var mockPublisher = new Mock<IReclamoEventPublisher>();
 
-            var handler = new CrearReclamoHandler(repoMock.Object, publisherMock.Object);
+            var handler = new CrearReclamoHandler(mockRepo.Object, mockPublisher.Object);
 
-            var command = new createReclamoCommand("")
-            {
-                UsuarioId = Guid.NewGuid(),
-                SubastaId = Guid.NewGuid(),
-                Motivo = "Producto defectuoso",
-                Descripcion = "El producto llegó roto"
-            };
+            var comando = new createReclamoCommand(
+                "user123",
+                "subasta123",
+                "Producto defectuoso",
+                "El producto llegó roto"
+            );
 
             // Act
-            var result = await handler.Handle(command, CancellationToken.None);
+            var resultado = await handler.Handle(comando, CancellationToken.None);
 
             // Assert
-            Assert.IsType<Guid>(result);
-            Assert.NotEqual(Guid.Empty, result);
-
-            repoMock.Verify(r => r.GuardarAsync(It.Is<reclamo>(r =>
-                r.UsuarioId == command.UsuarioId &&
-                r.SubastaId == command.SubastaId &&
-                r.Motivo == command.Motivo &&
-                r.Descripcion == command.Descripcion &&
+            mockRepo.Verify(r => r.GuardarAsync(It.Is<reclamo>(r =>
+                r.UsuarioId == comando.UsuarioId &&
+                r.SubastaId == comando.SubastaId &&
+                r.Motivo == comando.Motivo &&
+                r.Descripcion == comando.Descripcion &&
                 r.Estado == "Pendiente"
             )), Times.Once);
 
-            publisherMock.Verify(p => p.PublicarReclamoCreadoAsync(It.IsAny<reclamo>()), Times.Once);
+            mockPublisher.Verify(p => p.PublicarReclamoCreadoAsync(It.IsAny<reclamo>()), Times.Once);
+
+            Assert.NotEqual(Guid.Empty, resultado);
         }
-    }*/
+    }
 }

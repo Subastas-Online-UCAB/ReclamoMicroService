@@ -183,5 +183,40 @@ namespace reclamoService.Tests.Infraestructura
             Assert.False(result);
         }
 
+        [Fact]
+        public async Task ActualizarAsync_ModificaEstadoYSolucionCorrectamente()
+        {
+            // Arrange
+            using var context = GetInMemoryDbContext();
+            var repository = new ReclamoRepository(context);
+
+            var reclamo = new reclamo
+            {
+                Id = Guid.NewGuid(),
+                UsuarioId = Guid.NewGuid().ToString(),
+                SubastaId = Guid.NewGuid().ToString(),
+                Motivo = "Producto defectuoso",
+                Descripcion = "Pantalla rota al recibirlo",
+                Estado = "Pendiente",
+                FechaCreacion = DateTime.UtcNow
+            };
+
+            // Guardar reclamo inicial
+            await repository.GuardarAsync(reclamo);
+
+            // Modificar
+            reclamo.Estado = "Resuelto";
+            reclamo.Solucion = "Se hizo el reembolso";
+
+            // Act
+            await repository.ActualizarAsync(reclamo);
+
+            // Assert
+            var reclamoActualizado = await repository.ObtenerPorIdAsync(reclamo.Id);
+            Assert.NotNull(reclamoActualizado);
+            Assert.Equal("Resuelto", reclamoActualizado.Estado);
+            Assert.Equal("Se hizo el reembolso", reclamoActualizado.Solucion);
+        }
+
     }
 }

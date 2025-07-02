@@ -25,7 +25,7 @@ namespace reclamoService.Dominio.Entidades
         public DateTime FechaCreacion { get; set; } = DateTime.UtcNow;
         public string Estado { get; set; } = "Pendiente"; // Puede ser EnRevision, Aprobado, Rechazado
 
-        public string? Solucion { get; private set; } // Nuevo campo
+        public string? Solucion { get;  set; } // Nuevo campo
 
         public void AgregarSolucion(string solucion)
         {
