@@ -45,6 +45,9 @@ namespace reclamoService.Infraestructura.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<string>("Solucion")
+                        .HasColumnType("text");
+
                     b.Property<string>("SubastaId")
                         .IsRequired()
                         .HasColumnType("text");

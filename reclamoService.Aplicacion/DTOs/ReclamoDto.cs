@@ -15,5 +15,8 @@ namespace reclamoService.Aplicacion.DTOs
         public string Descripcion { get; set; }
         public DateTime FechaCreacion { get; set; }
         public string Estado { get; set; }
+
+
+        public string? Solucion { get; set; } // ✅ nueva
     }
 }

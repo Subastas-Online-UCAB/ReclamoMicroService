@@ -11,5 +11,7 @@ namespace reclamoService.Dominio.Interfaces
     {
         Task PublicarReclamoCreadoAsync(reclamo nuevoReclamo);
         Task PublicarReclamoResueltoAsync(Guid reclamoId);
+
+        Task PublicarSolucionAgregadaAsync(Guid reclamoId, string solucion, DateTime fecha); // ✅ Nuevo método
     }
 }

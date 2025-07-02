@@ -26,7 +26,8 @@ namespace reclamoService.Aplicacion.Handlers
                 Motivo = r.Motivo,
                 Descripcion = r.Descripcion,
                 FechaCreacion = r.FechaCreacion,
-                Estado = r.Estado
+                Estado = r.Estado,
+                Solucion = r.Solucion, // ✅ agregado
             }).ToList();
         }
     }

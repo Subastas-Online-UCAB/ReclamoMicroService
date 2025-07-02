@@ -3,6 +3,106 @@
   "WorkspaceRootPath": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservices.api\\reclamosservices.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|solutionrelative:reclamosservices.api\\reclamosservices.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\eventpublisher\\reclamoeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|solutionrelative:reclamoservice.infraestructura\\eventpublisher\\reclamoeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\eventos\\solucionreclamoagregadaevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\eventos\\solucionreclamoagregadaevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\handlers\\obtenertodoslosreclamoshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\handlers\\obtenertodoslosreclamoshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\dtos\\reclamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\dtos\\reclamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\consumers\\solucionreclamoagregadaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|solutionrelative:reclamoservice.infraestructura\\consumers\\solucionreclamoagregadaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\mongo\\documents\\reclamomongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|solutionrelative:reclamoservice.infraestructura\\mongo\\documents\\reclamomongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\mongo\\reclamomongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|solutionrelative:reclamoservice.infraestructura\\mongo\\reclamomongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservice.dominio\\interfaces\\ireclamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|solutionrelative:reclamosservice.dominio\\interfaces\\ireclamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservice.dominio\\interfaces\\ireclamomongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|solutionrelative:reclamosservice.dominio\\interfaces\\ireclamomongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\handlers\\resolverreclamohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\handlers\\resolverreclamohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\queries\\obtenertodoslosreclamosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\queries\\obtenertodoslosreclamosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservices.api\\controllers\\reclamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|solutionrelative:reclamosservices.api\\controllers\\reclamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|solutionrelative:reclamosservices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\consumers\\reclamocreadoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|solutionrelative:reclamoservice.infraestructura\\consumers\\reclamocreadoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\handlers\\agregarsolucionreclamohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\handlers\\agregarsolucionreclamohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservice.dominio\\interfaces\\ireclamoeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|solutionrelative:reclamosservice.dominio\\interfaces\\ireclamoeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Migrations\\20250702183339_AgregarColumnaSolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:reclamoService.Infraestructura\\Migrations\\20250702183339_AgregarColumnaSolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\persistencia\\reclamodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|solutionrelative:reclamoservice.infraestructura\\persistencia\\reclamodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\commands\\agregarsolucionreclamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\commands\\agregarsolucionreclamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservice.dominio\\entidades\\reclamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|solutionrelative:reclamosservice.dominio\\entidades\\reclamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\repositorios\\reclamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|solutionrelative:reclamoservice.infraestructura\\repositorios\\reclamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\dtos\\agregarsolucionreclamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\dtos\\agregarsolucionreclamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\commands\\resolverreclamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\commands\\resolverreclamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservices.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|solutionrelative:reclamosservices.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.test\\infraestructura\\consumers\\reclamoresueltoconsumertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|solutionrelative:reclamoservice.test\\infraestructura\\consumers\\reclamoresueltoconsumertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,10 +115,6 @@
       "RelativeMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|solutionrelative:reclamoservice.test\\infraestructura\\consumers\\reclamocreadoconsumertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\consumers\\reclamocreadoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|solutionrelative:reclamoservice.infraestructura\\consumers\\reclamocreadoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.test\\infraestructura\\eventos\\reclamoeventpublishertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|solutionrelative:reclamoservice.test\\infraestructura\\eventos\\reclamoeventpublishertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,28 +123,12 @@
       "RelativeMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|solutionrelative:reclamoservice.test\\reclamoservice.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\eventpublisher\\reclamoeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|solutionrelative:reclamoservice.infraestructura\\eventpublisher\\reclamoeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservice.dominio\\entidades\\reclamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|solutionrelative:reclamosservice.dominio\\entidades\\reclamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.test\\infraestructura\\repositorios\\reclamomongorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|solutionrelative:reclamoservice.test\\infraestructura\\repositorios\\reclamomongorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\mongo\\reclamomongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|solutionrelative:reclamoservice.infraestructura\\mongo\\reclamomongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.test\\infraestructura\\repositorios\\reclamorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|solutionrelative:reclamoservice.test\\infraestructura\\repositorios\\reclamorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\repositorios\\reclamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|solutionrelative:reclamoservice.infraestructura\\repositorios\\reclamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.test\\aplicacion\\crearreclamohandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,32 +151,12 @@
       "RelativeMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|solutionrelative:reclamosservice.dominio\\excepciones\\reclamonoencontradoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservices.api\\controllers\\reclamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|solutionrelative:reclamosservices.api\\controllers\\reclamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{583C38A6-16F4-4492-9D31-DF662EE1DB3F}|reclamoService.Test\\reclamoService.Test.csproj|solutionrelative:reclamoservice.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservice.dominio\\excepciones\\operacioninvalidaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|solutionrelative:reclamosservice.dominio\\excepciones\\operacioninvalidaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\handlers\\resolverreclamohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\handlers\\resolverreclamohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|solutionrelative:reclamosservices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservice.dominio\\interfaces\\ireclamomongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|solutionrelative:reclamosservice.dominio\\interfaces\\ireclamomongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservice.dominio\\interfaces\\ireclamoeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|solutionrelative:reclamosservice.dominio\\interfaces\\ireclamoeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\eventos\\reclamoresueltoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -109,30 +169,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservice.dominio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|solutionrelative:reclamosservice.dominio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\persistencia\\reclamodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|solutionrelative:reclamoservice.infraestructura\\persistencia\\reclamodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservice.dominio\\interfaces\\ireclamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{958FB9B2-3383-4B39-97FA-D36E8E6AE38D}|reclamosService.Dominio\\reclamoService.Dominio.csproj|solutionrelative:reclamosservice.dominio\\interfaces\\ireclamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\commands\\resolverreclamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\commands\\resolverreclamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\handlers\\obtenertodoslosreclamoshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\handlers\\obtenertodoslosreclamoshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\queries\\obtenertodoslosreclamosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\queries\\obtenertodoslosreclamosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\dtos\\reclamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\dtos\\reclamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\mongo\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -153,10 +189,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.aplicacion\\commands\\createreclamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{672E6EDF-7534-4547-A32E-25CB225006C0}|reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj|solutionrelative:reclamoservice.aplicacion\\commands\\createreclamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamosservices.api\\reclamosservices.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A4C3A0BE-F95C-4F82-9362-6695B5E4F681}|reclamosServices.Api\\reclamosServices.Api.csproj|solutionrelative:reclamosservices.api\\reclamosservices.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1D68DA8-D6FB-4041-A885-09B46C8B1921}|reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj|c:\\users\\ejic2\\onedrive\\escritorio\\api prueba\\reclamosservices\\reclamoservice.infraestructura\\migrations\\20250621005034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -182,236 +214,153 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReclamoResueltoConsumerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Consumers\\ReclamoResueltoConsumerTests.cs",
-              "RelativeDocumentMoniker": "reclamoService.Test\\Infraestructura\\Consumers\\ReclamoResueltoConsumerTests.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Consumers\\ReclamoResueltoConsumerTests.cs",
-              "RelativeToolTip": "reclamoService.Test\\Infraestructura\\Consumers\\ReclamoResueltoConsumerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T18:10:42.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReclamoCreadoConsumerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Consumers\\ReclamoCreadoConsumerTests.cs",
-              "RelativeDocumentMoniker": "reclamoService.Test\\Infraestructura\\Consumers\\ReclamoCreadoConsumerTests.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Consumers\\ReclamoCreadoConsumerTests.cs",
-              "RelativeToolTip": "reclamoService.Test\\Infraestructura\\Consumers\\ReclamoCreadoConsumerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T18:01:16.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReclamoEventPublisherTests.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Eventos\\ReclamoEventPublisherTests.cs",
-              "RelativeDocumentMoniker": "reclamoService.Test\\Infraestructura\\Eventos\\ReclamoEventPublisherTests.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Eventos\\ReclamoEventPublisherTests.cs",
-              "RelativeToolTip": "reclamoService.Test\\Infraestructura\\Eventos\\ReclamoEventPublisherTests.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAcwCwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:37:31.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReclamoMongoRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoMongoRepositoryTests.cs",
-              "RelativeDocumentMoniker": "reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoMongoRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoMongoRepositoryTests.cs",
-              "RelativeToolTip": "reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoMongoRepositoryTests.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:17:56.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ReclamoRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoRepositoryTests.cs",
-              "RelativeDocumentMoniker": "reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoRepositoryTests.cs",
-              "RelativeToolTip": "reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoRepositoryTests.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAswJcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T16:47:32.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "reclamoService.Test",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\reclamoService.Test.csproj",
-              "RelativeDocumentMoniker": "reclamoService.Test\\reclamoService.Test.csproj",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\reclamoService.Test.csproj",
-              "RelativeToolTip": "reclamoService.Test\\reclamoService.Test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-22T15:36:07.037Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "reclamo.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Entidades\\reclamo.cs",
-              "RelativeDocumentMoniker": "reclamosService.Dominio\\Entidades\\reclamo.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Entidades\\reclamo.cs",
-              "RelativeToolTip": "reclamosService.Dominio\\Entidades\\reclamo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ReclamoMongo.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Mongo\\Documents\\ReclamoMongo.cs",
+              "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Mongo\\Documents\\ReclamoMongo.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Mongo\\Documents\\ReclamoMongo.cs",
+              "RelativeToolTip": "reclamoService.Infraestructura\\Mongo\\Documents\\ReclamoMongo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T14:36:47.579Z",
+              "WhenOpened": "2025-07-02T18:43:43.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IReclamoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Interfaces\\IReclamoRepository.cs",
+              "RelativeDocumentMoniker": "reclamosService.Dominio\\Interfaces\\IReclamoRepository.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Interfaces\\IReclamoRepository.cs",
+              "RelativeToolTip": "reclamosService.Dominio\\Interfaces\\IReclamoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:16:44.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SolucionReclamoAgregadaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Consumers\\SolucionReclamoAgregadaConsumer.cs",
+              "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Consumers\\SolucionReclamoAgregadaConsumer.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Consumers\\SolucionReclamoAgregadaConsumer.cs",
+              "RelativeToolTip": "reclamoService.Infraestructura\\Consumers\\SolucionReclamoAgregadaConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T18:44:14.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReclamoDto.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\DTOs\\ReclamoDto.cs",
+              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\DTOs\\ReclamoDto.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\DTOs\\ReclamoDto.cs",
+              "RelativeToolTip": "reclamoService.Aplicacion\\DTOs\\ReclamoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T02:24:03.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SolucionReclamoAgregadaEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Eventos\\SolucionReclamoAgregadaEvent.cs",
+              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Eventos\\SolucionReclamoAgregadaEvent.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Eventos\\SolucionReclamoAgregadaEvent.cs",
+              "RelativeToolTip": "reclamoService.Aplicacion\\Eventos\\SolucionReclamoAgregadaEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T18:38:29.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ReclamoResueltoConsumer.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Consumers\\ReclamoResueltoConsumer.cs",
-              "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Consumers\\ReclamoResueltoConsumer.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Consumers\\ReclamoResueltoConsumer.cs",
-              "RelativeToolTip": "reclamoService.Infraestructura\\Consumers\\ReclamoResueltoConsumer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:53:12.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "reclamoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Repositorios\\reclamoRepository.cs",
-              "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Repositorios\\reclamoRepository.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Repositorios\\reclamoRepository.cs",
-              "RelativeToolTip": "reclamoService.Infraestructura\\Repositorios\\reclamoRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwDYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:34:21.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "reclamoCreadoConsumer.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Consumers\\reclamoCreadoConsumer.cs",
-              "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Consumers\\reclamoCreadoConsumer.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Consumers\\reclamoCreadoConsumer.cs",
-              "RelativeToolTip": "reclamoService.Infraestructura\\Consumers\\reclamoCreadoConsumer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T02:15:31.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CrearReclamoHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Aplicacion\\CrearReclamoHandlerTests.cs",
-              "RelativeDocumentMoniker": "reclamoService.Test\\Aplicacion\\CrearReclamoHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Aplicacion\\CrearReclamoHandlerTests.cs",
-              "RelativeToolTip": "reclamoService.Test\\Aplicacion\\CrearReclamoHandlerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T15:39:34.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TestDbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\SeedData\\TestDbInitializer.cs",
-              "RelativeDocumentMoniker": "reclamoService.Test\\SeedData\\TestDbInitializer.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\SeedData\\TestDbInitializer.cs",
-              "RelativeToolTip": "reclamoService.Test\\SeedData\\TestDbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T14:17:14.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ReclamoEventPublisher.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\EventPublisher\\ReclamoEventPublisher.cs",
               "RelativeDocumentMoniker": "reclamoService.Infraestructura\\EventPublisher\\ReclamoEventPublisher.cs",
               "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\EventPublisher\\ReclamoEventPublisher.cs",
               "RelativeToolTip": "reclamoService.Infraestructura\\EventPublisher\\ReclamoEventPublisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T03:06:24.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ReclamoControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Controller\\ReclamoControllerTests.cs",
-              "RelativeDocumentMoniker": "reclamoService.Test\\Controller\\ReclamoControllerTests.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Controller\\ReclamoControllerTests.cs",
-              "RelativeToolTip": "reclamoService.Test\\Controller\\ReclamoControllerTests.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAiwIEAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T14:40:01.361Z",
+              "DocumentIndex": 0,
+              "Title": "reclamosServices.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosServices.Api\\reclamosServices.Api.csproj",
+              "RelativeDocumentMoniker": "reclamosServices.Api\\reclamosServices.Api.csproj",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosServices.Api\\reclamosServices.Api.csproj",
+              "RelativeToolTip": "reclamosServices.Api\\reclamosServices.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T20:20:05.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "ObtenerTodosLosReclamosHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Handlers\\ObtenerTodosLosReclamosHandler.cs",
+              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Handlers\\ObtenerTodosLosReclamosHandler.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Handlers\\ObtenerTodosLosReclamosHandler.cs",
+              "RelativeToolTip": "reclamoService.Aplicacion\\Handlers\\ObtenerTodosLosReclamosHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T02:24:43.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ReclamoMongoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Mongo\\ReclamoMongoRepository.cs",
               "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Mongo\\ReclamoMongoRepository.cs",
               "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Mongo\\ReclamoMongoRepository.cs",
               "RelativeToolTip": "reclamoService.Infraestructura\\Mongo\\ReclamoMongoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T02:28:57.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "reclamoNoEncontradoException.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Excepciones\\reclamoNoEncontradoException.cs",
-              "RelativeDocumentMoniker": "reclamosService.Dominio\\Excepciones\\reclamoNoEncontradoException.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Excepciones\\reclamoNoEncontradoException.cs",
-              "RelativeToolTip": "reclamosService.Dominio\\Excepciones\\reclamoNoEncontradoException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "IReclamoMongoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Interfaces\\IReclamoMongoRepository.cs",
+              "RelativeDocumentMoniker": "reclamosService.Dominio\\Interfaces\\IReclamoMongoRepository.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Interfaces\\IReclamoMongoRepository.cs",
+              "RelativeToolTip": "reclamosService.Dominio\\Interfaces\\IReclamoMongoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T13:02:34.785Z",
+              "WhenOpened": "2025-06-22T02:26:20.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "reclamoService.Test\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\UnitTest1.cs",
-              "RelativeToolTip": "reclamoService.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T14:09:00.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 10,
               "Title": "resolverReclamoHandler.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Handlers\\resolverReclamoHandler.cs",
               "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Handlers\\resolverReclamoHandler.cs",
@@ -424,145 +373,211 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "createReclamoHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Handlers\\createReclamoHandler.cs",
-              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Handlers\\createReclamoHandler.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Handlers\\createReclamoHandler.cs",
-              "RelativeToolTip": "reclamoService.Aplicacion\\Handlers\\createReclamoHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "ObtenerTodosLosReclamosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Queries\\ObtenerTodosLosReclamosQuery.cs",
+              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Queries\\ObtenerTodosLosReclamosQuery.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Queries\\ObtenerTodosLosReclamosQuery.cs",
+              "RelativeToolTip": "reclamoService.Aplicacion\\Queries\\ObtenerTodosLosReclamosQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:11:53.044Z",
+              "WhenOpened": "2025-06-22T02:20:06.033Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "reclamoController.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosServices.Api\\Controllers\\reclamoController.cs",
               "RelativeDocumentMoniker": "reclamosServices.Api\\Controllers\\reclamoController.cs",
               "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosServices.Api\\Controllers\\reclamoController.cs",
               "RelativeToolTip": "reclamosServices.Api\\Controllers\\reclamoController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAUwFIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwEoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T20:20:28.555Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IReclamoMongoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Interfaces\\IReclamoMongoRepository.cs",
-              "RelativeDocumentMoniker": "reclamosService.Dominio\\Interfaces\\IReclamoMongoRepository.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Interfaces\\IReclamoMongoRepository.cs",
-              "RelativeToolTip": "reclamosService.Dominio\\Interfaces\\IReclamoMongoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T02:26:20.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosServices.Api\\Program.cs",
               "RelativeDocumentMoniker": "reclamosServices.Api\\Program.cs",
               "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosServices.Api\\Program.cs",
               "RelativeToolTip": "reclamosServices.Api\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAGEAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T20:31:09.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "OperacionInvalidaException.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Excepciones\\OperacionInvalidaException.cs",
-              "RelativeDocumentMoniker": "reclamosService.Dominio\\Excepciones\\OperacionInvalidaException.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Excepciones\\OperacionInvalidaException.cs",
-              "RelativeToolTip": "reclamosService.Dominio\\Excepciones\\OperacionInvalidaException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:25:45.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 16,
               "Title": "IReclamoEventPublisher.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Interfaces\\IReclamoEventPublisher.cs",
               "RelativeDocumentMoniker": "reclamosService.Dominio\\Interfaces\\IReclamoEventPublisher.cs",
               "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Interfaces\\IReclamoEventPublisher.cs",
               "RelativeToolTip": "reclamosService.Dominio\\Interfaces\\IReclamoEventPublisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T03:04:34.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ReclamoResueltoEvent.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Eventos\\ReclamoResueltoEvent.cs",
-              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Eventos\\ReclamoResueltoEvent.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Eventos\\ReclamoResueltoEvent.cs",
-              "RelativeToolTip": "reclamoService.Aplicacion\\Eventos\\ReclamoResueltoEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "AgregarSolucionReclamoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Handlers\\AgregarSolucionReclamoHandler.cs",
+              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Handlers\\AgregarSolucionReclamoHandler.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Handlers\\AgregarSolucionReclamoHandler.cs",
+              "RelativeToolTip": "reclamoService.Aplicacion\\Handlers\\AgregarSolucionReclamoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:50:42.575Z",
+              "WhenOpened": "2025-07-02T18:24:35.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Class1.cs",
-              "RelativeDocumentMoniker": "reclamosService.Dominio\\Class1.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Class1.cs",
-              "RelativeToolTip": "reclamosService.Dominio\\Class1.cs",
+              "DocumentIndex": 17,
+              "Title": "20250702183339_AgregarColumnaSolucion.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Migrations\\20250702183339_AgregarColumnaSolucion.cs",
+              "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Migrations\\20250702183339_AgregarColumnaSolucion.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Migrations\\20250702183339_AgregarColumnaSolucion.cs",
+              "RelativeToolTip": "reclamoService.Infraestructura\\Migrations\\20250702183339_AgregarColumnaSolucion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T14:18:21.892Z",
+              "WhenOpened": "2025-07-02T18:33:40.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 14,
+              "Title": "reclamoCreadoConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Consumers\\reclamoCreadoConsumer.cs",
+              "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Consumers\\reclamoCreadoConsumer.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Consumers\\reclamoCreadoConsumer.cs",
+              "RelativeToolTip": "reclamoService.Infraestructura\\Consumers\\reclamoCreadoConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T02:15:31.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AgregarSolucionReclamoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Commands\\AgregarSolucionReclamoCommand.cs",
+              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Commands\\AgregarSolucionReclamoCommand.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Commands\\AgregarSolucionReclamoCommand.cs",
+              "RelativeToolTip": "reclamoService.Aplicacion\\Commands\\AgregarSolucionReclamoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T18:15:50.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "reclamo.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Entidades\\reclamo.cs",
+              "RelativeDocumentMoniker": "reclamosService.Dominio\\Entidades\\reclamo.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Entidades\\reclamo.cs",
+              "RelativeToolTip": "reclamosService.Dominio\\Entidades\\reclamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:36:47.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AgregarSolucionReclamoDto.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\DTOs\\AgregarSolucionReclamoDto.cs",
+              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\DTOs\\AgregarSolucionReclamoDto.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\DTOs\\AgregarSolucionReclamoDto.cs",
+              "RelativeToolTip": "reclamoService.Aplicacion\\DTOs\\AgregarSolucionReclamoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T18:15:10.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "ReclamoDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Persistencia\\ReclamoDbContext.cs",
               "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Persistencia\\ReclamoDbContext.cs",
               "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Persistencia\\ReclamoDbContext.cs",
               "RelativeToolTip": "reclamoService.Infraestructura\\Persistencia\\ReclamoDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T20:30:30.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IReclamoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Interfaces\\IReclamoRepository.cs",
-              "RelativeDocumentMoniker": "reclamosService.Dominio\\Interfaces\\IReclamoRepository.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Interfaces\\IReclamoRepository.cs",
-              "RelativeToolTip": "reclamosService.Dominio\\Interfaces\\IReclamoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "ReclamoMongoRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoMongoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoMongoRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoMongoRepositoryTests.cs",
+              "RelativeToolTip": "reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoMongoRepositoryTests.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:16:44.995Z",
+              "WhenOpened": "2025-06-22T17:17:56.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "reclamoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Repositorios\\reclamoRepository.cs",
+              "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Repositorios\\reclamoRepository.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Repositorios\\reclamoRepository.cs",
+              "RelativeToolTip": "reclamoService.Infraestructura\\Repositorios\\reclamoRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:34:21.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
+              "Title": "ReclamoEventPublisherTests.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Eventos\\ReclamoEventPublisherTests.cs",
+              "RelativeDocumentMoniker": "reclamoService.Test\\Infraestructura\\Eventos\\ReclamoEventPublisherTests.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Eventos\\ReclamoEventPublisherTests.cs",
+              "RelativeToolTip": "reclamoService.Test\\Infraestructura\\Eventos\\ReclamoEventPublisherTests.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:37:31.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReclamoCreadoConsumerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Consumers\\ReclamoCreadoConsumerTests.cs",
+              "RelativeDocumentMoniker": "reclamoService.Test\\Infraestructura\\Consumers\\ReclamoCreadoConsumerTests.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Consumers\\ReclamoCreadoConsumerTests.cs",
+              "RelativeToolTip": "reclamoService.Test\\Infraestructura\\Consumers\\ReclamoCreadoConsumerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:01:16.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReclamoResueltoConsumerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Consumers\\ReclamoResueltoConsumerTests.cs",
+              "RelativeDocumentMoniker": "reclamoService.Test\\Infraestructura\\Consumers\\ReclamoResueltoConsumerTests.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Consumers\\ReclamoResueltoConsumerTests.cs",
+              "RelativeToolTip": "reclamoService.Test\\Infraestructura\\Consumers\\ReclamoResueltoConsumerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:10:42.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "resolverReclamoCommand.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Commands\\resolverReclamoCommand.cs",
               "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Commands\\resolverReclamoCommand.cs",
@@ -575,7 +590,164 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosServices.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "reclamosServices.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosServices.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "reclamosServices.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T17:42:17.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReclamoRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoRepositoryTests.cs",
+              "RelativeToolTip": "reclamoService.Test\\Infraestructura\\Repositorios\\ReclamoRepositoryTests.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswJcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:47:32.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "reclamoService.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\reclamoService.Test.csproj",
+              "RelativeDocumentMoniker": "reclamoService.Test\\reclamoService.Test.csproj",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\reclamoService.Test.csproj",
+              "RelativeToolTip": "reclamoService.Test\\reclamoService.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-22T15:36:07.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReclamoResueltoConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Consumers\\ReclamoResueltoConsumer.cs",
+              "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Consumers\\ReclamoResueltoConsumer.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Consumers\\ReclamoResueltoConsumer.cs",
+              "RelativeToolTip": "reclamoService.Infraestructura\\Consumers\\ReclamoResueltoConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:53:12.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CrearReclamoHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Aplicacion\\CrearReclamoHandlerTests.cs",
+              "RelativeDocumentMoniker": "reclamoService.Test\\Aplicacion\\CrearReclamoHandlerTests.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Aplicacion\\CrearReclamoHandlerTests.cs",
+              "RelativeToolTip": "reclamoService.Test\\Aplicacion\\CrearReclamoHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T15:39:34.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TestDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\SeedData\\TestDbInitializer.cs",
+              "RelativeDocumentMoniker": "reclamoService.Test\\SeedData\\TestDbInitializer.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\SeedData\\TestDbInitializer.cs",
+              "RelativeToolTip": "reclamoService.Test\\SeedData\\TestDbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:17:14.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReclamoControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Controller\\ReclamoControllerTests.cs",
+              "RelativeDocumentMoniker": "reclamoService.Test\\Controller\\ReclamoControllerTests.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\Controller\\ReclamoControllerTests.cs",
+              "RelativeToolTip": "reclamoService.Test\\Controller\\ReclamoControllerTests.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwIEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:40:01.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "reclamoNoEncontradoException.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Excepciones\\reclamoNoEncontradoException.cs",
+              "RelativeDocumentMoniker": "reclamosService.Dominio\\Excepciones\\reclamoNoEncontradoException.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Excepciones\\reclamoNoEncontradoException.cs",
+              "RelativeToolTip": "reclamosService.Dominio\\Excepciones\\reclamoNoEncontradoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:02:34.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "reclamoService.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Test\\UnitTest1.cs",
+              "RelativeToolTip": "reclamoService.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:09:00.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "createReclamoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Handlers\\createReclamoHandler.cs",
+              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Handlers\\createReclamoHandler.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Handlers\\createReclamoHandler.cs",
+              "RelativeToolTip": "reclamoService.Aplicacion\\Handlers\\createReclamoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:11:53.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OperacionInvalidaException.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Excepciones\\OperacionInvalidaException.cs",
+              "RelativeDocumentMoniker": "reclamosService.Dominio\\Excepciones\\OperacionInvalidaException.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Excepciones\\OperacionInvalidaException.cs",
+              "RelativeToolTip": "reclamosService.Dominio\\Excepciones\\OperacionInvalidaException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:25:45.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReclamoResueltoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Eventos\\ReclamoResueltoEvent.cs",
+              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Eventos\\ReclamoResueltoEvent.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Eventos\\ReclamoResueltoEvent.cs",
+              "RelativeToolTip": "reclamoService.Aplicacion\\Eventos\\ReclamoResueltoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:50:42.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Class1.cs",
+              "RelativeDocumentMoniker": "reclamosService.Dominio\\Class1.cs",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\Class1.cs",
+              "RelativeToolTip": "reclamosService.Dominio\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:18:21.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "reclamoCreadoEvent.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Eventos\\reclamoCreadoEvent.cs",
               "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Eventos\\reclamoCreadoEvent.cs",
@@ -583,51 +755,11 @@
               "RelativeToolTip": "reclamoService.Aplicacion\\Eventos\\reclamoCreadoEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T02:11:42.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T02:11:42.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ReclamoDto.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\DTOs\\ReclamoDto.cs",
-              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\DTOs\\ReclamoDto.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\DTOs\\ReclamoDto.cs",
-              "RelativeToolTip": "reclamoService.Aplicacion\\DTOs\\ReclamoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T02:24:03.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ObtenerTodosLosReclamosHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Handlers\\ObtenerTodosLosReclamosHandler.cs",
-              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Handlers\\ObtenerTodosLosReclamosHandler.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Handlers\\ObtenerTodosLosReclamosHandler.cs",
-              "RelativeToolTip": "reclamoService.Aplicacion\\Handlers\\ObtenerTodosLosReclamosHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAB9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T02:24:43.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ObtenerTodosLosReclamosQuery.cs",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Queries\\ObtenerTodosLosReclamosQuery.cs",
-              "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Queries\\ObtenerTodosLosReclamosQuery.cs",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Queries\\ObtenerTodosLosReclamosQuery.cs",
-              "RelativeToolTip": "reclamoService.Aplicacion\\Queries\\ObtenerTodosLosReclamosQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T02:20:06.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 42,
               "Title": "MongoDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Mongo\\MongoDbContext.cs",
               "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Mongo\\MongoDbContext.cs",
@@ -635,12 +767,11 @@
               "RelativeToolTip": "reclamoService.Infraestructura\\Mongo\\MongoDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T03:01:49.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T03:01:49.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 44,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosServices.Api\\appsettings.json",
               "RelativeDocumentMoniker": "reclamosServices.Api\\appsettings.json",
@@ -652,12 +783,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 43,
               "Title": "reclamoService.Aplicacion.csproj",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj",
               "RelativeDocumentMoniker": "reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj*",
-              "RelativeToolTip": "reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj*",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj",
+              "RelativeToolTip": "reclamoService.Aplicacion\\reclamoService.Aplicacion.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-21T02:09:47.42Z",
@@ -665,31 +796,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 45,
               "Title": "reclamoService.Infraestructura.csproj",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj",
               "RelativeDocumentMoniker": "reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj",
-              "RelativeToolTip": "reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj",
+              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj*",
+              "RelativeToolTip": "reclamoService.Infraestructura\\reclamoService.Infraestructura.csproj*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-20T14:30:54.148Z"
+              "WhenOpened": "2025-06-20T14:30:54.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "reclamosServices.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosServices.Api\\reclamosServices.Api.csproj",
-              "RelativeDocumentMoniker": "reclamosServices.Api\\reclamosServices.Api.csproj",
-              "ToolTip": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosServices.Api\\reclamosServices.Api.csproj",
-              "RelativeToolTip": "reclamosServices.Api\\reclamosServices.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-20T20:20:05.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 46,
               "Title": "createReclamoCommand.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Commands\\createReclamoCommand.cs",
               "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Commands\\createReclamoCommand.cs",
@@ -701,7 +821,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 47,
               "Title": "20250621005034_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Migrations\\20250621005034_InitialCreate.cs",
               "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Migrations\\20250621005034_InitialCreate.cs",
@@ -713,7 +833,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 48,
               "Title": "reclamoService.Dominio.csproj",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamosService.Dominio\\reclamoService.Dominio.csproj",
               "RelativeDocumentMoniker": "reclamosService.Dominio\\reclamoService.Dominio.csproj",
@@ -721,11 +841,12 @@
               "RelativeToolTip": "reclamosService.Dominio\\reclamoService.Dominio.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-20T14:30:04.275Z"
+              "WhenOpened": "2025-06-20T14:30:04.275Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 49,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Infraestructura\\Class1.cs",
               "RelativeDocumentMoniker": "reclamoService.Infraestructura\\Class1.cs",
@@ -737,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 50,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ejic2\\OneDrive\\Escritorio\\API prueba\\reclamosServices\\reclamoService.Aplicacion\\Class1.cs",
               "RelativeDocumentMoniker": "reclamoService.Aplicacion\\Class1.cs",

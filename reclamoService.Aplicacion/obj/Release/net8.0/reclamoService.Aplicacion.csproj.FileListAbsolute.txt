@@ -1,0 +1,16 @@
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\bin\Release\net8.0\reclamoService.Aplicacion.deps.json
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\bin\Release\net8.0\reclamoService.Aplicacion.dll
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\bin\Release\net8.0\reclamoService.Aplicacion.pdb
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\bin\Release\net8.0\reclamoService.Dominio.dll
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\bin\Release\net8.0\reclamoService.Dominio.pdb
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Release\net8.0\reclamoService.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Release\net8.0\reclamoService.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Release\net8.0\reclamoService.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Release\net8.0\reclamoService.Aplicacion.AssemblyInfo.cs
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Release\net8.0\reclamoService.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Release\net8.0\reclamoService.Aplicacion.sourcelink.json
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Release\net8.0\reclamoS.C3D4728F.Up2Date
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Release\net8.0\reclamoService.Aplicacion.dll
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Release\net8.0\refint\reclamoService.Aplicacion.dll
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Release\net8.0\reclamoService.Aplicacion.pdb
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Release\net8.0\ref\reclamoService.Aplicacion.dll

@@ -171,3 +171,4 @@ C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosServices.
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosServices.Api\bin\Debug\net8.0\SharpCompress.dll
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosServices.Api\bin\Debug\net8.0\Snappier.dll
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosServices.Api\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamosServices.Api\obj\Debug\net8.0\reclamosServices.Api.sourcelink.json

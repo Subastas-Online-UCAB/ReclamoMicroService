@@ -13,3 +13,4 @@ C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Ap
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Debug\net8.0\refint\reclamoService.Aplicacion.dll
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Debug\net8.0\reclamoService.Aplicacion.pdb
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Debug\net8.0\ref\reclamoService.Aplicacion.dll
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Aplicacion\obj\Debug\net8.0\reclamoService.Aplicacion.sourcelink.json

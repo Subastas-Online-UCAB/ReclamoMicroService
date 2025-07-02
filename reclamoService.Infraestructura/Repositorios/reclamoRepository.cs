@@ -8,6 +8,7 @@ using reclamoService.Dominio.Entidades;
 using reclamoService.Dominio.Interfaces;
 using reclamoService.Dominio.Excepciones;
 using reclamoService.Infraestructura.Persistencia;
+using MassTransit;
 
 namespace reclamoService.Infraestructura.Repositorios
 {
@@ -52,6 +53,13 @@ namespace reclamoService.Infraestructura.Repositorios
             reclamo.Estado = estado;
             await _context.SaveChangesAsync();
             return true;
+        }
+
+        // En tu implementación ReclamoRepository
+        public async Task ActualizarAsync(reclamo reclamo)
+        {
+            _context.Reclamos.Update(reclamo);
+            await _context.SaveChangesAsync();
         }
     }
 

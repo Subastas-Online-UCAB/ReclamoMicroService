@@ -17,3 +17,4 @@ C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.In
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Infraestructura\obj\Debug\net8.0\ref\reclamoService.Infraestructura.dll
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Infraestructura\bin\Debug\net8.0\reclamoService.Infraestructura.runtimeconfig.json
 C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Infraestructura\obj\Debug\net8.0\reclamoService.Infraestructura.genruntimeconfig.cache
+C:\Users\ejic2\OneDrive\Escritorio\API prueba\reclamosServices\reclamoService.Infraestructura\obj\Debug\net8.0\reclamoService.Infraestructura.sourcelink.json
