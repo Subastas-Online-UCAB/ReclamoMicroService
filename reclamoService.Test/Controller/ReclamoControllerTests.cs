@@ -137,5 +137,36 @@ namespace ReclamoService.Tests.Controllers
             Assert.Contains(id.ToString(), exception.Message);
             Assert.StartsWith("No se encontró el reclamo con ID", exception.Message);
         }
+
+        [Fact]
+        public async Task AgregarSolucion_ReclamoExistente_RetornaOk()
+        {
+            // Arrange
+            var dto = new AgregarSolucionReclamoDto
+            {
+                ReclamoId = Guid.NewGuid(),
+                Solucion = "Producto reemplazado por uno nuevo."
+            };
+
+            _mediatorMock
+                .Setup(m => m.Send(It.IsAny<AgregarSolucionReclamoCommand>(), default))
+                .ReturnsAsync(Unit.Value);
+
+            // Act
+            var result = await _controller.AgregarSolucion(dto);
+
+            // Assert
+            var okResult = Assert.IsType<OkObjectResult>(result);
+            Assert.Equal(StatusCodes.Status200OK, okResult.StatusCode);
+
+            // ✅ Serializar y leer el objeto anónimo con JsonDocument
+            var json = JsonSerializer.Serialize(okResult.Value);
+            using var doc = JsonDocument.Parse(json);
+            var root = doc.RootElement;
+
+            Assert.Equal("Solución agregada correctamente al reclamo.", root.GetProperty("mensaje").GetString());
+            Assert.Equal(dto.ReclamoId.ToString(), root.GetProperty("reclamoId").GetString());
+        }
+
     }
 }
